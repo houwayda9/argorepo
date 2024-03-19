@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: react-app
-          image: houwayda/test:e49edf425ae6cdc95aca512caf8729009572b369
+          image: houwayda/test:74785462bf22b917602d8f5a9e0dfdfbc4c1b9b8
           imagePullPolicy: Always
           ports:
             - containerPort: 80
